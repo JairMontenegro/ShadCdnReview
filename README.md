@@ -34,3 +34,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+---
+
+Shad Documentation
+
+Open [Documentation](https://ui.shadcn.com/) for more details
+
+---
+
+All of necessary for take this course.
+
+Open [Git hub repository ](https://github.com/DevTalles-corp/shadcn-dashboard) For more details you can see all the branches that this course contains, you will see them divided by branches for each lesson.
