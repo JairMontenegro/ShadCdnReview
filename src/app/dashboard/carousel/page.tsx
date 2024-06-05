@@ -1,7 +1,5 @@
 "use client";
 
-import Autoplay from "embla-carousel-autoplay";
-
 import { Card, CardContent } from "@/components/ui/card";
 import {
   Carousel,
@@ -16,7 +14,7 @@ export default function CarouselDemo() {
     <div className="f w-full flex items-center justify-center">
       <Carousel
         className="w-full max-w-xs"
-        plugins={[Autoplay({ delay: 500 })]}
+        autoplay={500}
         opts={{
           dragFree: true,
           loop: true,
