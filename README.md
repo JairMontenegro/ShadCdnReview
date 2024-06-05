@@ -51,3 +51,8 @@ Open [Git hub repository ](https://github.com/DevTalles-corp/shadcn-dashboard) F
 
 This link is for more information about anatomy of shadcn. [The anatomy of shadcn/ui](https://manupa.dev/blog/anatomy-of-shadcn-ui)
 [React Parents](https://www.patterns.dev/react/hoc-pattern/)
+
+---
+
+For more information about carousels, visit the following link.
+[Embla Carousel](https://www.embla-carousel.com/api/options/)
