@@ -46,3 +46,8 @@ Open [Documentation](https://ui.shadcn.com/) for more details
 All of necessary for take this course.
 
 Open [Git hub repository ](https://github.com/DevTalles-corp/shadcn-dashboard) For more details you can see all the branches that this course contains, you will see them divided by branches for each lesson.
+
+---
+
+This link is for more information about anatomy of shadcn. [The anatomy of shadcn/ui](https://manupa.dev/blog/anatomy-of-shadcn-ui)
+[React Parents](https://www.patterns.dev/react/hoc-pattern/)

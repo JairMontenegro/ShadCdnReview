@@ -22,11 +22,16 @@ const items = [
     question: "What is the tallest mountain in the world?",
     answer: "The tallest mountain in the world is Mount Everest.",
   },
+  {
+    id: 4,
+    question: "What is the name of most chimba person in the world?",
+    answer: "Jair Montenegro.",
+  },
 ];
 
 export default function AccordionPage() {
   return (
-    <Accordion type="single" className="w-full">
+    <Accordion type="single" collapsible className="w-full">
       {items.map((item) => (
         <AccordionItem value={`${item.id}`} key={item.id}>
           <AccordionTrigger>{item.question}</AccordionTrigger>
